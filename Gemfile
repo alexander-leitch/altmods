@@ -14,3 +14,6 @@ gem 'middleman-livereload'
 gem 'middleman-compass', '>= 4.0.0'
 
 gem "middleman-sprockets"
+
+gem "foundation-rails", "= 5.5.2.1"
+gem "sass-rails", "= 5.0.3"
